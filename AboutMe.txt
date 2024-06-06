@@ -2,4 +2,5 @@ Functional
 Autommation
 Selenium
 Java
-OOP
+OOP: method overloading, method overriding, polymorphsim, inheritance
+
